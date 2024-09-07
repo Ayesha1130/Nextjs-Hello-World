@@ -7,7 +7,7 @@ export default function create() {
       </h1>
 
       <p className="text-1xl my-px text-center mt-3 p-3">
-        {" "}
+        
         WelCome To My Next Js App
       </p>
 
@@ -15,7 +15,7 @@ export default function create() {
         <h1 className=" bg-pink-400 hover:bg-green-700 font-bold text-3xl  p-12 animate-bounce mt-6 ">Hello WOrld</h1>
 
         <p className="text-center m-9">
-        "If you want to learn Next.js, click the button below."
+        If you want to learn Next.js, click the button below.
         </p>
 
         <Link
